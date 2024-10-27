@@ -4,15 +4,14 @@
     "eval_interval": 800,
     "seed": 1234,
     "epochs": 10000,
-    "learning_rate": 0.0001,
+    "learning_rate": 0.00015,
     "betas": [
       0.8,
       0.99
     ],
     "eps": 1e-09,
-    "batch_size": 6,
+    "batch_size": 12,
     "fp16_run": false,
-    "half_type": "fp16",
     "lr_decay": 0.999875,
     "segment_size": 10240,
     "init_lr_ratio": 1,
@@ -23,8 +22,7 @@
     "max_speclen": 512,
     "port": "8001",
     "keep_ckpts": 3,
-    "all_in_mem": false,
-    "vol_aug": false
+    "all_in_mem": false
   },
   "data": {
     "training_files": "filelists/train.txt",
@@ -36,8 +34,7 @@
     "win_length": 2048,
     "n_mel_channels": 80,
     "mel_fmin": 0.0,
-    "mel_fmax": 22050,
-    "unit_interpolate_mode": "nearest"
+    "mel_fmax": 22050
   },
   "model": {
     "inter_channels": 192,
@@ -86,22 +83,14 @@
       4
     ],
     "n_layers_q": 3,
-    "n_layers_trans_flow": 3,
-    "n_flow_layer": 4,
     "use_spectral_norm": false,
-    "gin_channels": 768,
-    "ssl_dim": 768,
+    "gin_channels": 256,
+    "ssl_dim": 256,
     "n_speakers": 1,
-    "vocoder_name": "nsf-hifigan",
-    "speech_encoder": "vec768l12",
-    "speaker_embedding": false,
-    "vol_embedding": false,
-    "use_depthwise_conv": false,
-    "flow_share_parameter": false,
-    "use_automatic_f0_prediction": true,
-    "use_transformer_flow": false
+    "speech_encoder": "vec256l9",
+    "speaker_embedding": false
   },
   "spk": {
-    "nahida": 0
+    "hutao": 0
   }
 }

@@ -1,15 +1,94 @@
-./dataset/44k/taffy/000549.wav
-./dataset/44k/nyaru/000004.wav
-./dataset/44k/nyaru/000006.wav
-./dataset/44k/taffy/000551.wav
-./dataset/44k/nyaru/000009.wav
-./dataset/44k/taffy/000561.wav
-./dataset/44k/nyaru/000001.wav
-./dataset/44k/taffy/000553.wav
-./dataset/44k/nyaru/000002.wav
-./dataset/44k/taffy/000560.wav
-./dataset/44k/taffy/000557.wav
-./dataset/44k/nyaru/000005.wav
-./dataset/44k/taffy/000554.wav
-./dataset/44k/taffy/000550.wav
-./dataset/44k/taffy/000559.wav
+./dataset/44k/nahida/nahida (18).wav
+./dataset/44k/nahida/nahida (34).wav
+./dataset/44k/nahida/nahida (70).wav
+./dataset/44k/nahida/nahida (10).wav
+./dataset/44k/nahida/nahida (74).wav
+./dataset/44k/nahida/nahida (91).wav
+./dataset/44k/nahida/nahida (40).wav
+./dataset/44k/nahida/nahida (21).wav
+./dataset/44k/nahida/nahida (82).wav
+./dataset/44k/nahida/nahida (72).wav
+./dataset/44k/nahida/nahida (14).wav
+./dataset/44k/nahida/nahida (20).wav
+./dataset/44k/nahida/nahida (35).wav
+./dataset/44k/nahida/nahida (75).wav
+./dataset/44k/nahida/nahida (76).wav
+./dataset/44k/nahida/nahida (92).wav
+./dataset/44k/nahida/nahida (36).wav
+./dataset/44k/nahida/nahida (24).wav
+./dataset/44k/nahida/nahida (84).wav
+./dataset/44k/nahida/nahida (87).wav
+./dataset/44k/nahida/nahida (29).wav
+./dataset/44k/nahida/nahida (2).wav
+./dataset/44k/nahida/nahida (9).wav
+./dataset/44k/nahida/nahida (53).wav
+./dataset/44k/nahida/nahida (19).wav
+./dataset/44k/nahida/nahida (16).wav
+./dataset/44k/nahida/nahida (95).wav
+./dataset/44k/nahida/nahida (90).wav
+./dataset/44k/nahida/nahida (81).wav
+./dataset/44k/nahida/nahida (27).wav
+./dataset/44k/nahida/nahida (45).wav
+./dataset/44k/nahida/nahida (85).wav
+./dataset/44k/nahida/nahida (56).wav
+./dataset/44k/nahida/nahida (93).wav
+./dataset/44k/nahida/nahida (4).wav
+./dataset/44k/nahida/nahida (3).wav
+./dataset/44k/nahida/nahida (5).wav
+./dataset/44k/nahida/nahida (31).wav
+./dataset/44k/nahida/nahida (54).wav
+./dataset/44k/nahida/nahida (7).wav
+./dataset/44k/nahida/nahida (51).wav
+./dataset/44k/nahida/nahida (67).wav
+./dataset/44k/nahida/nahida (15).wav
+./dataset/44k/nahida/nahida (6).wav
+./dataset/44k/nahida/nahida (88).wav
+./dataset/44k/nahida/nahida (37).wav
+./dataset/44k/nahida/nahida (33).wav
+./dataset/44k/nahida/nahida (68).wav
+./dataset/44k/nahida/nahida (41).wav
+./dataset/44k/nahida/nahida (79).wav
+./dataset/44k/nahida/nahida (26).wav
+./dataset/44k/nahida/nahida (66).wav
+./dataset/44k/nahida/nahida (71).wav
+./dataset/44k/nahida/nahida (61).wav
+./dataset/44k/nahida/nahida (32).wav
+./dataset/44k/nahida/nahida (60).wav
+./dataset/44k/nahida/nahida (39).wav
+./dataset/44k/nahida/nahida (43).wav
+./dataset/44k/nahida/nahida (62).wav
+./dataset/44k/nahida/nahida (49).wav
+./dataset/44k/nahida/nahida (46).wav
+./dataset/44k/nahida/nahida (69).wav
+./dataset/44k/nahida/nahida (89).wav
+./dataset/44k/nahida/nahida (63).wav
+./dataset/44k/nahida/nahida (80).wav
+./dataset/44k/nahida/nahida (12).wav
+./dataset/44k/nahida/nahida (8).wav
+./dataset/44k/nahida/nahida (57).wav
+./dataset/44k/nahida/nahida (28).wav
+./dataset/44k/nahida/nahida (13).wav
+./dataset/44k/nahida/nahida (42).wav
+./dataset/44k/nahida/nahida (17).wav
+./dataset/44k/nahida/nahida (58).wav
+./dataset/44k/nahida/nahida (11).wav
+./dataset/44k/nahida/nahida (47).wav
+./dataset/44k/nahida/nahida (65).wav
+./dataset/44k/nahida/nahida (94).wav
+./dataset/44k/nahida/nahida (50).wav
+./dataset/44k/nahida/nahida (83).wav
+./dataset/44k/nahida/nahida (77).wav
+./dataset/44k/nahida/nahida (44).wav
+./dataset/44k/nahida/nahida (78).wav
+./dataset/44k/nahida/nahida (73).wav
+./dataset/44k/nahida/nahida (59).wav
+./dataset/44k/nahida/nahida (96).wav
+./dataset/44k/nahida/nahida (38).wav
+./dataset/44k/nahida/nahida (55).wav
+./dataset/44k/nahida/nahida (86).wav
+./dataset/44k/nahida/nahida (25).wav
+./dataset/44k/nahida/nahida (1).wav
+./dataset/44k/nahida/nahida (30).wav
+./dataset/44k/nahida/nahida (23).wav
+./dataset/44k/nahida/nahida (52).wav
+./dataset/44k/nahida/nahida (64).wav
